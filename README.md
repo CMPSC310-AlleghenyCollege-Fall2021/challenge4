@@ -10,3 +10,6 @@ Note: While high-level discussion is allowed and encouraged for the challenge pr
 
 ### Part 2
 
+For this challenge problem you are to walkthrough the [Text Generation Example](https://www.tensorflow.org/text/tutorials/text_generation) on Google Colab and answer the following questions.
+
+1. 

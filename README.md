@@ -6,14 +6,20 @@ Note: While high-level discussion is allowed and encouraged for the challenge pr
 
 ### Part 1
 
-Calculate the feedforward output of the neural network that has three inputs, two neurons in the hidden layer, and one output.
+Calculate the feedforward output of the neural network that has three inputs, two neurons in the hidden layer, and uses ReLU activation function (`y = max(0, x)`)
 
-|       | 1 | 2 |
-| weight =      | 0     |   1|
-|  | 2      |    3 |
-
+          [1 2 1]
+weights = [0 1 0]
+          [2 3 4]
+          
+          [2 5]
+input =   [6 7]
+          [1 8]
+          
 ### Part 2
 
-For this challenge problem you are to walkthrough the [Text Generation Example](https://www.tensorflow.org/text/tutorials/text_generation) on Google Colab and answer the following questions.
+This part of the challenge problem refers to the [Text Generation Example](https://www.tensorflow.org/text/tutorials/text_generation) walkthrough on Google Colab .
 
-1. 
+1. In a few sentences describe the layers that constitute the model. What is their purpose and input/output of each layer.
+
+2. How can the output be improved?

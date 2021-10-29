@@ -10,14 +10,17 @@ Calculate the feedforward output of the neural network that has three inputs, tw
 
 [!Simple neural network](https://github.com/CMPSC310-AlleghenyCollege-Fall2021/challenge4/blob/main/nn.png)
 
+```
           [1 2 1]
 weights = [0 1 0]
           [2 3 4]
+
           
           [2 5]
 input =   [6 7]
           [1 8]
-          
+```
+
 ### Part 2
 
 This part of the challenge problem refers to the [Text Generation Example](https://www.tensorflow.org/text/tutorials/text_generation) walkthrough on Google Colab .

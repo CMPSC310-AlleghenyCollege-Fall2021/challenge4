@@ -8,6 +8,8 @@ Note: While high-level discussion is allowed and encouraged for the challenge pr
 
 Calculate the feedforward output of the neural network that has three inputs, two neurons in the hidden layer, and uses ReLU activation function (`y = max(0, x)`)
 
+[!Simple neural network](https://github.com/CMPSC310-AlleghenyCollege-Fall2021/challenge4/blob/main/nn.png)
+
           [1 2 1]
 weights = [0 1 0]
           [2 3 4]

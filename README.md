@@ -6,7 +6,15 @@ Note: While high-level discussion is allowed and encouraged for the challenge pr
 
 ### Part 1
 
+Calculate the feedforward output of the neural network that has three inputs, two neurons in the hidden layer, and one output.
 
+$$\mathbf{X} = \left[\begin{array}
+{rrr}
+1 & 2 & 3 \\
+4 & 5 & 6 \\
+7 & 8 & 9
+\end{array}\right]
+$$
 
 ### Part 2
 
